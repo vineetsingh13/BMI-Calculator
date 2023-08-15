@@ -2,7 +2,7 @@
 
 BMI Calculator is a simple app to calculate your body mass index and helps you to keep track of your BMI
 
-##Technologies
+## Technologies
 Language - Dart
 Framework - Flutter
 UI - MaterialUI
